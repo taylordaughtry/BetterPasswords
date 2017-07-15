@@ -1,5 +1,5 @@
 # BetterPasswords
-<a href="https://nakedsecurity.sophos.com/2016/08/18/nists-new-password-rules-what-you-need-to-know/' target="_blank">NIST-certified</a> password support for Craft CMS. Minimum entropy, length, and rejection of the top 10,000 most common passwords.
+[NIST-certified](https://nakedsecurity.sophos.com/2016/08/18/nists-new-password-rules-what-you-need-to-know/) password support for Craft CMS. Minimum entropy, length, and rejection of the top 10,000 most common passwords.
 
 ## Entropy
 Enforce a minimum required 'uniqueness' for passwords. Passwords with lower entropy are much more likely to be cracked.
